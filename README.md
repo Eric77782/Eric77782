@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Eric
 
-<!--
-**Eric77782/Eric77782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho **15 anos** e atualmente estou cursando **Informática para Internet** na **ETEC**, Estou começando minha jornada na área de tecnologia e desenvolvimento, aprendendo sobre programação, desenvolvimento web e outras áreas da informática.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Desenvolvimento Web
+* Programação
+* Tecnologia e inovação
+
+🚀 Aqui no meu GitHub você vai encontrar:
+
+* Projetos de estudo
+* Exercícios e práticas de programação
+* Experimentos e aprendizados durante o curso
+
+📚 Estou sempre buscando aprender coisas novas e melhorar minhas habilidades na área de tecnologia.
+
+---
+
+⭐ *"Aprendendo um pouco todos os dias para construir grandes projetos no futuro."*
+
+
